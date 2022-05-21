@@ -9,5 +9,6 @@ With this impression, we want to investigate the relationship among social media
 
 #### This GitHub Repo is the storage and the colloaboration space
 
+#### Data Lineage of the project
 
-
+<img src="https://github.com/yantkumich/siads592-fomo/blob/master/592_flow.png">
